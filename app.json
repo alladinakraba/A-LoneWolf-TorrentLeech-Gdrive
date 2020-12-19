@@ -1,12 +1,12 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "name": "Telegram Leecher",
+  "description": "A Telegram Leecher based on Pyrogram.",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
-  "success_url": "https://t.me/torrentleechgdrivesupport",
-  "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "repository": "https://github.com/alladinakraba/A-LoneWolf-TorrentLeech-Gdrive",
+  "success_url": "https://github.com/alladinakraba/A-LoneWolf-TorrentLeech-Gdrive",
+  "website": "https://github.com/alladinakraba/A-LoneWolf-TorrentLeech-Gdrive",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
